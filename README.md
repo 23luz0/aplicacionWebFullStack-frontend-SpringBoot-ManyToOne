@@ -1,3 +1,4 @@
+cuando descargue el archivo crear un archivo con nombre (angular-practica) copiar ahí el archivo descargado = aplicacionWebFullStack-frontend-SpringBoot-ManyToOne-master y ese nombre modificarlo con manytoone
 # Manytoone
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.0.
